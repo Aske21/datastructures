@@ -1,2 +1,2 @@
 # datastructures
-# Tasks and Homework for Data Structures Course
+# Homework 1 for the Data Structures Course
